@@ -1,3 +1,3 @@
 # Capstone
 
-capstone.bdirgo.com
+http://capstone.bdirgo.com
